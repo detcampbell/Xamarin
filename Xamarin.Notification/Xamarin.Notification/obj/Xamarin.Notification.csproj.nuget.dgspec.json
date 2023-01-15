@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\amcamp4\\source\\repos\\Xamarin.Notification\\Xamarin.Notification\\Xamarin.Notification\\Xamarin.Notification.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\amcamp4\\source\\repos\\Xamarin.Notification\\Xamarin.Notification\\Xamarin.Notification\\Xamarin.Notification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amcamp4\\source\\repos\\Xamarin.Notification\\Xamarin.Notification\\Xamarin.Notification\\Xamarin.Notification.csproj",
+        "projectName": "Xamarin.Notification",
+        "projectPath": "C:\\Users\\amcamp4\\source\\repos\\Xamarin.Notification\\Xamarin.Notification\\Xamarin.Notification\\Xamarin.Notification.csproj",
+        "packagesPath": "C:\\Users\\amcamp4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amcamp4\\source\\repos\\Xamarin.Notification\\Xamarin.Notification\\Xamarin.Notification\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amcamp4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "Xamarin.Android.Wear": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Xamarin.AndroidX.Legacy.Support.Core.UI": {
+              "target": "Package",
+              "version": "[1.0.0.6, )"
+            },
+            "Xamarin.AndroidX.PercentLayout": {
+              "target": "Package",
+              "version": "[1.0.0.6, )"
+            },
+            "Xamarin.AndroidX.Wear": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
